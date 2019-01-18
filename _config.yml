@@ -88,9 +88,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jingchao Zhang"
+  name             : "Yang Hong"
   avatar           : "bio-photo.jpg"
-  bio              : "HPC Applications Specialist at Holland Computing Center"
+  bio              : "Ph.D. Candidate at University of Nebraska Lincoln"
   location         : "Lincoln, NE"
   email            : "zhang@unl.edu"
   uri              :
@@ -100,7 +100,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "JingchaoZhang"
+  github           : "YangHong"
   google_plus      :
   keybase          :
   instagram        :

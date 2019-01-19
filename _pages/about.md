@@ -13,6 +13,6 @@ author_profile: false
 
 ## Awards
 - [Nebraska Center for Materials and Nanoscience Graduate Research Fellowship Award](https://ncmn.unl.edu/outreach-education-recognition) 2018 ~ 2019
-- Pill-Soon Song Outstanding Graduate Research Assistant Award 2016 ~ 2017
+- [Pill-Soon Song Outstanding Graduate Research Assistant Award](https://chem.unl.edu/graduate-awards#deptAwards) 2016 ~ 2017
 - ME 270 Design Competition Award 2011 ~ 2012
 - International Leadership Academy Scholarship 2011 ~ 2012

@@ -5,8 +5,6 @@ permalink: /about/
 author_profile: false
 ---
 
-***
-
 ## Education
 * 2014 - Present 
   * Ph.D. Candidate at [Zeng Research Group](http://chemweb.unl.edu/zeng/current-members/)
